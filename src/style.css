@@ -13,7 +13,7 @@ body{color:#fff;text-align:center;text-shadow:0 0 10px rgba(24, 25, 59,0.3);word
 .js-toDoForm input, .js-form input{background-color: transparent;color:#fff;border:none;border-bottom:1px solid #fff;font-size:28px;}
 .js-toDoForm input::placeholder, .js-form input::placeholder{color:#fff;text-shadow:0 0 10px rgba(24, 25, 59,0.3)}
 input:focus{outline: none;}
-.js-toDoList {display: inline-block;max-width: 1100px;list-style:none;padding:10px;max-height:150px;overflow-y:scroll;}
+.js-toDoList {display: inline-block;max-width: 1100px;list-style:none;padding:5px 30px;margin:30px auto;max-height:150px;overflow-y:scroll;}
 ul.js-toDoList::-webkit-scrollbar{width: 5px;}
 ul.js-toDoList::-webkit-scrollbar-thumb{background-color: rgba(255,255,255,0.3);border-radius: 3px;}
 ul.js-toDoList::-webkit-scrollbar-thumb:hover{background-color: rgba(255,255,255,0.8);}
