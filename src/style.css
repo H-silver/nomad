@@ -14,6 +14,7 @@ body{color:#fff;text-align:center;text-shadow:0 0 10px rgba(24, 25, 59,0.3);word
 .js-toDoForm input::placeholder, .js-form input::placeholder{color:#fff;}
 input:focus{outline: none;}
 .js-toDoList {display: inline-block;max-width: 1100px;list-style:none;padding:10px;}
+.js-toDoList li {margin:5px;}
 .js-toDoList button{background-color:transparent;border:none;}
 button:focus{outline:none;}
 .js-weather {display: block;}
